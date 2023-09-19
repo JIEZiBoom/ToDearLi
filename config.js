@@ -6,8 +6,8 @@ var config = {
         "hi",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "不能说不hi",  // 同上...
         "好吧这是你的生日",
-        "随便说，哈哈",
-        "祝李老师！",
+        "随便说哈哈",
+        "最后祝李婧琳！",
         "无事绊心弦！！所念皆如愿！！！",      
     ],
     /**
@@ -20,8 +20,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        //"心爱的小可爱": "./imgs/xiaokeai.png",
-        "上网就是为了等你！": "./imgs/waitingForYou.png",
+        "上网就是为了等你": "./imgs/waitingForYou.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -29,9 +28,9 @@ var config = {
         play: "来点音乐吗？",
         bannar_coming: "再加点颜色",
         balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐！！",
-        story: "A MESSAGE ",
+        cake_fadein: "加个蛋糕",
+        light_candle: "帮李老师点蜡烛",
+        wish_message: "生日快乐啦！！",
+        story: "说点什么",
     }
 };
